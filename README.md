@@ -2,6 +2,7 @@
 ## Adresses:
 
 LocalPlayer 0x0017E0A8
+
 Entity List 0x18AC04
 
 ## Ammo Pointer:
